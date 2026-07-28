@@ -1,0 +1,1 @@
+Esta clase esta contenida en clase 14 con toda la historia de código para cadenas de markov y simulación de texto
