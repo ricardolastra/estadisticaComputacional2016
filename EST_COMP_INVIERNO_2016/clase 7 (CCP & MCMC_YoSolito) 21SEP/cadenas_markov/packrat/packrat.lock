@@ -1,0 +1,9 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.7.1
+RVersion: 3.2.5
+Repos: CRAN=https://mran.microsoft.com/snapshot/2016-05-01
+
+Package: packrat
+Source: CRAN
+Version: 0.4.7-1
+Hash: 16ca16d36eb18d1d16113606ecc5c400
